@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "restAssuredTestSuite">
+<test name = "resrAssuredTestCases">
+<classes>
+<class name = "restAssured_API_Automation_Pawan.restAssured_API_Automation_Pawan.Test01_GetRequest"/>
+<class name = "restAssured_API_Automation_Pawan.restAssured_API_Automation_Pawan.Test03_GetRequest"/>
+
+
+</classes>
+</test>
+</suite>

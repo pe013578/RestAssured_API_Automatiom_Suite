@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [restAssuredTestSuite]">
+  <test thread-count="5" name="resrAssuredTestCases(failed)">
+    <classes>
+      <class name="restAssured_API_Automation_Pawan.restAssured_API_Automation_Pawan.Test03_GetRequest">
+        <methods>
+          <include name="googleMapTest"/>
+        </methods>
+      </class> <!-- restAssured_API_Automation_Pawan.restAssured_API_Automation_Pawan.Test03_GetRequest -->
+    </classes>
+  </test> <!-- resrAssuredTestCases(failed) -->
+</suite> <!-- Failed suite [restAssuredTestSuite] -->
